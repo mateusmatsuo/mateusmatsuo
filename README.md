@@ -20,18 +20,8 @@ Me chamo Mateus Tsuyoshi Matsuo Hashimoto, tenho 22 anos e sou natural de São P
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=mateusmatsuo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=mateusmatsuo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmatsuo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusmatsuo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt" style="width:100%"/>
