@@ -32,6 +32,6 @@ Me chamo Mateus Tsuyoshi Matsuo Hashimoto, tenho 22 anos e sou natural de São P
 
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusmatsuo&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusmatsuo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt" style="width:100%"/>
