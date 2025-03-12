@@ -31,5 +31,6 @@ Me chamo Mateus Tsuyoshi Matsuo Hashimoto, tenho 22 anos e sou natural de São P
   />
 
 </p>
+![](https://github-readme-stats.vercel.app/api?username=mateusmatsuo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt" style="width:100%"/>
