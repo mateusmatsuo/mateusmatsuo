@@ -2,7 +2,7 @@
 
 **`Ciência de Dados e IA`**
 
-Me chamo Mateus Tsuyoshi Matsuo Hashimoto, tenho 22 anos e sou natural de São Paulo. Atualmente, estou cursando Ciência da Computação na UFSCar. Sou um estudante e entusiasta da área de dados e IA, buscando me aprofundar cada vez mais nesse universo e, assim, desenvolver novas habilidades e competências.
+Me chamo Mateus Tsuyoshi Matsuo Hashimoto, tenho 23 anos e sou natural de São Paulo. Atualmente, estou cursando Ciência da Computação na UFSCar. Sou um estudante e entusiasta da área de dados e IA, buscando me aprofundar cada vez mais nesse universo e, assim, desenvolver novas habilidades e competências. Atualmente, estou estudando ciência de dados voltado para o futebol, onde sonho em atuar e pretendo construir minha carreira.
 
 ---
 
